@@ -3,9 +3,9 @@ export default function Navbar() {
     <nav className="navbar">
       <h2>Yamini</h2>
       <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Projects</a></li>
+        <li><a href="#About">About</a></li>
+        <li><a href="#Skills">Skills</a></li>
+        <li><a href="#Projects">Projects</a></li>
       </ul>
     </nav>
   );
